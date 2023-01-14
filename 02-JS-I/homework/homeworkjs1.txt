@@ -1,0 +1,7 @@
+variable: es una caja o contenedor donde se guarda informacion, por ejemplo se van a guardar numeros, o letras, las cuales pueden variar
+string: los estring son cadenas de caracteres ejemplo "hello" los cuales se deben de guardan entre comillas
+funcion argumento (return): es como una licuadora donde se ingresa un valor y el cual al hacer un proceso y me devuelve el resultado
+ funcion (2, 3) = 
+ return 2+ 3 se pasan parametros y me retorna la logica de los datos
+ Declaraciones if: if es un condicional.
+ valores booleanos: es sencillamente saber si algo es verdadero o falso 
